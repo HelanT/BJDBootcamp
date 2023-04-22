@@ -7,8 +7,9 @@ public class Addition {
 		
 		int fno = 100;
 		int sno = 200;
-		int result = fno + sno;
-		System.out.println(result);
+            int tno = 300;
+		int result = fno + sno + tno;
+		System.out.println("Final no:" + result);
 		
 		
 	}
